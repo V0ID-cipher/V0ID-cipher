@@ -125,7 +125,7 @@ drwx------  [queued]  threat-intelligence-aggregator/
 ## `> contributions`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/V0ID-cipher/V0ID-cipher/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
