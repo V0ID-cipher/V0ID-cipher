@@ -112,8 +112,8 @@ drwx------  [queued]  threat-intelligence-aggregator/
 ## `> stat github`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=V0ID-cipher&show_icons=true&theme=transparent&bg_color=000510&title_color=4fc3f7&text_color=3a6a8a&icon_color=4fc3f7&border_color=0d2a3a" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0ID-cipher&layout=compact&theme=transparent&bg_color=000510&title_color=4fc3f7&text_color=3a6a8a&border_color=0d2a3a" width="49%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=V0ID-cipher&show_icons=true&theme=transparent&bg_color=000510&title_color=4fc3f7&text_color=3a6a8a&icon_color=4fc3f7&border_color=0d2a3a" width="49%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=V0ID-cipher&layout=compact&theme=transparent&bg_color=000510&title_color=4fc3f7&text_color=3a6a8a&border_color=0d2a3a" width="49%"/>
 </p>
 
 <p align="center">
